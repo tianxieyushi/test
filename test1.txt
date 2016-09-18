@@ -1,2 +1,3 @@
 add test1.txt
 are you know?
+hello my name is jim
