@@ -1,3 +1,9 @@
 add test1.txt
 are you know?
+<<<<<<< HEAD
 hello my name is jim
+=======
+add test txt
+add wenben 
+hello everyone
+>>>>>>> der
